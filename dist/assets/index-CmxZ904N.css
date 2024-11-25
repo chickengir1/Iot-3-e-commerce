@@ -1,0 +1,1 @@
+*{margin:0;padding:0;box-sizing:border-box}@font-face{font-family:nanumfont;src:url(/assets/NanumSquareNeo-dEb-Ch5HW_zm.ttf) format("truetype")}:root{--font-nanumfont: "nanumfont"}body{font-family:var(--font-nanumfont)}
